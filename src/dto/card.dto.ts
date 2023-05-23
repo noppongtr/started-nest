@@ -3,4 +3,3 @@ interface CardDTO {
     detail: string;
     no: number;
 }
-
